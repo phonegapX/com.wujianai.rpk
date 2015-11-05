@@ -1,0 +1,12 @@
+version: 1.5.2
+apkFileName: 解放电源键 1.6.0.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '8'
+packageInfo:
+  cur_package: com.wujianai.rpk
+  orig_package: com.wujianai.rpk
+compressionType: false

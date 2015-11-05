@@ -1,0 +1,4 @@
+set solib-search-path ./obj/local/armeabi;../android5.01_lib;../android5.01_lib/hw
+directory E:/disk/D/android-ndk-r10/platforms/android-9/arch-arm/usr/include jni E:/disk/D/android-ndk-r10/sources/cxx-stl/system
+file obj/local/armeabi/app_process32_original
+target remote 192.168.1.101:18512

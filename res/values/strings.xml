@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">解放电源键</string>
+    <string name="service">音量键亮屏</string>
+    <string name="service_started">音量键亮屏已开启！</string>
+    <string name="wait_start_service">初始化中...</string>
+    <string name="no_root">无法获取Root权限！</string>
+    <string name="bootauto">开机自启动</string>
+    <string name="warning">警告：手机设备需root后，才能正常使用本软件，否则无效。</string>
+    <string name="about">关于本软件</string>
+    <string name="about_detail">"关闭屏幕后，只能按电源键唤醒屏幕，长时间使用后，电源键易磨损，甚至损坏，该软件能使所有实体键具备唤醒屏幕功能，以减少电源键的使用频率，延长按键寿命，（本软件需要root权限支持）谢谢您的支持。如果有什么问题，或意见，可以发邮件到：327065681@qq.com。
+
+ 版本号：1.6.0 
+
+ 更新时间：2012.6.27
+
+ 更新内容：
+ 1.修正了长时间运行停止的问题
+ 2.添加了通知栏运行提示 
+
+ 作者：王龙"</string>
+    <string name="setting">设置</string>
+    <string name="setting_notification">通知栏图标显示</string>
+</resources>

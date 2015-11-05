@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.375287463/C_INCLUDE_PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.375287463/C_INCLUDE_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.375287463/C_INCLUDE_PATH/value=E\:\\disk\\D\\android-ndk-r10\\platforms\\android-19\\arch-arm\\usr\\include
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.375287463/append=true
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.375287463/appendContributed=true
